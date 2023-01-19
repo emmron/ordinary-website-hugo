@@ -66,7 +66,7 @@ title = 'Ordinary Agency'
   APIkey = "AIzaSyB_ldrBLCtTHew5yvSa-BWZ6qMVZ3ppbqg"
   latitude = "-31.938340"
   longitude = "115.847800"
-  pinImage = "images/logo.png"
+  pinImage = "images/pin.png"
 
   # Socail icons
   [[params.social]]
