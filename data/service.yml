@@ -1,0 +1,32 @@
+---
+enable: true
+title: "Why Choose us?"
+subtitle: >
+          We enable people and businesses to work where they want,
+          when they want and how they want.
+services:
+  - name: "largest Network"
+    description: >
+                Ordinary Agency boasts the largest network of SEO and content tools in the industry, enabling us to provide our clients with the most comprehensive and effective digital marketing solutions available.
+    icon: "ti-view-grid"
+  - name: "All Sizes And Budget"
+    description: >
+                Ordinary Agency is equipped to handle websites of all sizes, from small businesses to large enterprises, with the same high level of care and attention. We understand that every website is unique and will work closely with you to create a customized solution that fits your specific needs and goals.
+    icon: "ti-infinite"
+  - name: "Dedicated Account Manager"
+    description: >
+                Ordinary Agency is committed to providing our clients with the best possible service. That's why we have dedicated Account Managers who will work closely with you every step of the way on your digital journey. These experienced professionals will provide you with personalized support, guidance, and advice to help you achieve your business goals. With an Ordinary Agency Account Manager by your side, you can rest assured that your digital strategy is in good hands.
+    icon: "ti-help-alt"
+  - name: "Easy Payment"
+    description: >
+                At Ordinary Agency, we believe in transparency and flexibility, that's why we offer easy payment options and clear proposals, and we don't have any lock-in SEO contracts, giving you the freedom to choose the plan that fits your business needs.
+    icon: "ti-credit-card"
+  - name: "Dedicated Web Support"
+    description: >
+                Ordinary Agency is dedicated to providing web support that keeps your business online, ensuring that your website is always available and providing you with the peace of mind that comes with knowing your website is in good hands.
+    icon: "ti-lock"
+  - name: "Personalization"
+    description: >
+                At Ordinary Agency, we understand that every business is unique, and that's why we build personalized PPC and SEO campaigns that are tailored to match the specific needs and goals of your business. Whether you're looking to increase brand awareness, generate leads, or drive sales, our team of experts will work closely with you to create a customized solution that delivers the results you need.
+    icon: "ti-image"
+---

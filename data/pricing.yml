@@ -1,0 +1,24 @@
+---
+enable: true
+title: "Simple pricing for everyone"
+subtitle: >
+          Whether you're looking for a full-time workspace or are just visiting Melbourne,
+           we've got an option for everyone
+buttonTarget: "contact"
+itemPrices:
+  - packcage: "Daily"
+    description: >
+      Ordinary Agency's Local SEO package, priced at $250, focuses on improving online visibility and search engine rankings for businesses in their local area by analyzing current performance, creating a strategy, optimizing website for local keywords, verifying Google My Business listing, building local citations, and backlinks.
+    price: 250
+    badge:
+  - packcage: "Weekly"
+    description: >
+        Ordinary Agency's SEO Nurture package helps improve website's search engine rankings and visibility at $500, by performing website analysis and creating a tailored strategy targeting relevant keywords, implementing on-page optimization, link building, content development and providing regular reports, competitor analysis and actionable insights for better performance.
+    price: 500
+    badge: popular
+  - packcage: "Monthly"
+    description: >
+      Ordinary Agency's SEO Nurture package at $500, improves website's search engine rankings and visibility by analyzing website and creating a tailored strategy targeting relevant keywords, implementing on-page optimization, link building, content development and providing regular reports, competitor analysis and actionable insights for better performance.
+    price: 1000
+    badge:
+---

@@ -1,0 +1,87 @@
+baseURL = 'https://cohub-hugo.netlify.app'
+languageCode = 'en-us'
+paginate = 6
+theme= "coHub"
+title = 'Ordinary Agency'
+
+[Menu]
+  # Main Menu
+  [[menu.Main]]
+  name = "Exibhition"
+  url= "#gallery"
+  weight = 1
+  [[menu.Main]]
+  name = "Feature"
+  url= "#service"
+  weight = 1
+  [[menu.Main]]
+  name = "About"
+  url= "/about/"
+  weight = 3
+  [[menu.Main]]
+  name = "Blog"
+  url= "#blog"
+  weight = 4
+  [[menu.Main]]
+  name = "Pricing"
+  url= "#pricing"
+  weight = 5
+  [[menu.Main]]
+  name = "FAQ"
+  url= "#faq"
+  weight = 6
+  [[menu.Main]]
+  name = "Contact"
+  url= "/contact/"
+  weight = 7
+
+  # Sitemap Menu
+  [[menu.sitemap]]
+  name = "Privacy Policy"
+  url = "/privacy/"
+  weight = 1
+  [[menu.sitemap]]
+  name = "Terms"
+  url = "/terms/"
+  weight = 2
+
+[params]
+  aboutPageURL = "blog"
+  contactLink = "contact"
+  copyright = "© {year} <a href=\"https://staticmania.com/\" target=\"_blank\">StaticMania </a>"
+  fabFormURL =  "https://fabform.io/f/u00kv3-"
+  googleAnalytics = "G-JZ95FEWF9K"
+  logo = "images/logo-white.png"
+  footerlogo = "images/logo-white.png"
+  footerDescription = "Ordinary Agency is a premier digital agency in West Perth, Western Australia, offering a wide range of digital services including web development, SEO, PPC, and more to help businesses succeed online."
+
+  [params.address]
+  address = "135 Carr St, West Perth, 6005"
+  email = "hello@ordinaryagency.com.au"
+  openingDesc = "Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days."
+  openingHours = "We are open from 7am — 7pm week days."
+  phone = "0403 566 928"
+
+  [params.map]
+  APIkey = "AIzaSyB_ldrBLCtTHew5yvSa-BWZ6qMVZ3ppbqg"
+  latitude = "-31.938340"
+  longitude = "115.847800"
+  pinImage = "images/pin.png"
+
+  # Socail icons
+  [[params.social]]
+  icon = "ti-facebook"
+  url = "https://www.facebook.com/"
+  weight = 1
+  [[params.social]]
+  icon = "ti-twitter-alt"
+  url = "https://twitter.com/"
+  weight = 2
+  [[params.social]]
+  icon = "ti-dribbble"
+  url = "https://dribbble.com/"
+  weight = 3
+  [[params.social]]
+  icon = "ti-instagram"
+  url = "https://www.instagram.com/"
+  weight = 4

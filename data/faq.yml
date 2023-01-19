@@ -1,0 +1,20 @@
+---
+enable: true
+title: "Frequently Asked Questions"
+faq:
+  - question: "Q. What does a web designer do?"
+    answer: >
+            A web designer is responsible for creating visually appealing and user-friendly websites. They use various design elements such as layout, color, typography, and imagery to create a website that is both visually appealing and easy to navigate. In addition to designing the look and feel of a website, web designers often collaborate with web developers to ensure that the website is functional and easy to use.
+  - question: "Q. Why is SEO important?"
+    answer: >
+            Search Engine Optimization (SEO) is important because it helps to increase the visibility and ranking of a website on search engines like Google. By improving the search engine ranking, a website is able to attract more potential customers and increase its online reach, which ultimately leads to more sales and growth for a business.
+  - question: "Q. How much does a website cost?"
+    answer: >
+            The cost of a website can vary greatly depending on the complexity of the design, the number of pages, and the features and functionality required. A basic website can cost as little as a few hundred dollars, while a more complex website with custom design and advanced features can cost tens of thousands of dollars. It also depends on if you want to hire an agency or a freelancer, if you use website builders or CMS, if you want a specific design, if you have a specific functionality, etc. It's important to note that cost also varies depending on the market and location you're in.
+  - question: "Q. What tools do you we websites?"
+    answer: >
+            Ordinary Agency utilizes Gatsby to build blazing fast websites that load quickly and provide a seamless user experience. Gatsby is a modern web framework that uses the latest technologies to build high-performance websites that are optimized for speed and performance. By using Gatsby, our agency is able to deliver websites that load quickly and provide a smooth experience for users, which can lead to better engagement and conversions.
+  - question: "Q. What is PPC?"
+    answer: >
+            PPC stands for Pay-Per-Click, it is a form of online advertising where the advertiser pays each time a user clicks on one of their ads. It's important because it allows businesses to reach a large audience quickly and efficiently, targeting specific demographics, interests and behaviors. PPC can drive targeted traffic to a website and can be a cost-effective way to increase brand awareness and generate leads. It can be also used for testing the market and for remarketing.
+---
